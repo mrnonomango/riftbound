@@ -1,4 +1,3 @@
-```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -227,4 +226,3 @@ onValue(ref(db, "riftbound/p2"), (snapshot) => {
 
 </body>
 </html>
-```
